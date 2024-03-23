@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left"> - Linguagens de Programação: Java, Python<br> - Ferramentas de Testes: Selenium, JUnit, Pytest<br> - Testes Automatizados: Desenvolvimento e execução de testes automatizados para garantir a qualidade do software.<br> - Análise de Sistemas: Compreensão de requisitos de software e elaboração de estratégias de testes.</p>
+<p align="left"> - Linguagens de Programação: Java, Python<br> - Ferramentas de Testes: Selenium, JUnit, Pytest<br> - Testes Automatizados: Desenvolvimento e execução de testes automatizados para garantir a qualidade do software.<br> - Análise de Sistemas: Compreensão de requisitos de software e elaboração de estratégias de testes.<br> - Automações de processos: RPA</p>
 
 ###
 
@@ -24,8 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+  <img width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/1200px-Pytest_logo.svg.png" height="40" alt="pytest logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest logo"  />
+  <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" height="40" alt="junit logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
   <img width="20" />
