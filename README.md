@@ -1,90 +1,77 @@
-<h1 align="center">Hello World</h1>
+<h1 align="center">👋 Olá, eu sou o Jhonata!</h1>
 
-###
+<p align="center">
+  <b>QA Pleno | Testes Automatizados | DevOps | Apaixonado por Qualidade, Tecnologia e Inovação</b>
+</p>
 
-<h3 align="left">Sobre Mim</h3>
-
-###
-
-<p align="left">Olá, eu sou Jhonata. Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado na área de Qualidade de Software (QA), especialmente em testes automatizados. Tenho trabalhado com tecnologias como Java e Selenium, além de ter experiência em Python para automação de testes.<br><br>Além do meu envolvimento com o desenvolvimento de software, tenho uma paixão por games, filmes, séries.</p>
-
-###
 ---
-<h3 align="left">Principais Habilidades</h3>
 
-###
+### 💻 Sobre Mim
 
-<p align="left"> - Linguagens de Programação: Java, Python<br> - Ferramentas de Testes: Selenium, JUnit, Pytest<br> - Testes Automatizados: Desenvolvimento e execução de testes automatizados para garantir a qualidade do software.<br> - Análise de Sistemas: Compreensão de requisitos de software e elaboração de estratégias de testes.<br> - Automações de processos: RPA</p>
+Sou Analista de Testes Pleno (QA) com experiência em aplicações web e mobile. Atuo com testes manuais e automatizados, colaborando desde a etapa de refinamento até a entrega final. Tenho experiência com **automação usando Java + Selenium, Cypress, Postman, RestAssured** e testes de performance com **JMeter**.
 
-###
+Tenho me aprofundado no uso de **Inteligência Artificial para otimizar tarefas de QA**, acelerar execuções e melhorar entregas em ambientes ágeis com CI/CD.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/1200px-Pytest_logo.svg.png" height="40" alt="pytest logo"  />
-  <img width="20" />
-  <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" height="40" alt="junit logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+---
+
+### 🧰 Principais Skills
+
+- **Planejamento e Estratégia de Testes**  
+- **Automação com Java (Selenium, JUnit, Cucumber)**  
+- **Automação com Cypress e JavaScript**  
+- **Testes de API com Postman e RestAssured**  
+- **Testes de Performance com JMeter**  
+- **Left Shift Testing e Agile QA**  
+- **Uso de IA para acelerar testes e gerar dados**
+
+---
+
+#### 👨‍💻 Linguagens
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 </div>
 
-###
+#### 🧪 Frameworks e Ferramentas
+<div>
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="Selenium"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" height="40" alt="JUnit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" height="40" alt="Cucumber"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="40" alt="Cypress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js"/>
+</div>
+
 ---
-<h3 align="left">Portifolio</h3>
 
-###
+### 📁 Portfólio
 
-<p align="left">
-  <a href="https://github.com/jhonatavenancio/regressao_webdriver">Teste automaziado - java selenium </a>
-  
-###
+- 🔗 [Projeto de Automação com Page Object + Java + Selenium + Faker](https://github.com/jhonatavenancio/airbug-teste-selenium-java)  
+- 🔗 [Automação de Cenários de Regressão com Java + Selenium](https://github.com/jhonatavenancio/regressao_webdriver)  
+- 🔗 [Plano de Testes e Automação Base Java + Selenium](https://github.com/jhonatavenancio/projeto-teste-qa)
+
 ---
-<h3 align="left">CONTATO</h3>
 
-###
+### 📬 Contato
 
-<br clear="both">
 <div align="left">
+  <a href="mailto:jhonata.venancio14@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-jhonata.venancio14@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/jhonata-venancio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-jhonata--venancio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="jhonata.soouzaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="jhonatavena" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="https://github.com/jhonatavenancio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-jhonatavenancio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-<br clear="both">
+---
+
+### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatavenancio&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatavenancio&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonatavenancio&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatavenancio&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true" height="150"/>
 </div>
 
-###
-
-###
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-###
