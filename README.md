@@ -1,10 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Jhonata!</h1>
 
-<p align="center">
-  <b>QA Pleno | Testes Automatizados | DevOps | Apaixonado por Qualidade, Tecnologia e Inovação</b>
-</p>
 
----
 
 ### 💻 Sobre Mim
 
