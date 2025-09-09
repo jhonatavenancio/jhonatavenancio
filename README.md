@@ -42,8 +42,9 @@ Tenho me aprofundado no uso de **Inteligência Artificial para otimizar tarefas 
 
 ### 📁 Portfólio
 
+- 🔗 [Automação cypress](https://github.com/jhonatavenancio/cypress-teste-po)
+- 🔗 [Gerador de plano de testes IA](https://github.com/jhonatavenancio/gerador_plano_teste)
 - 🔗 [Projeto de Automação com Page Object + Java + Selenium + Faker](https://github.com/jhonatavenancio/airbug-teste-selenium-java)  
-- 🔗 [Automação de Cenários de Regressão com Java + Selenium](https://github.com/jhonatavenancio/regressao_webdriver)  
 - 🔗 [Plano de Testes e Automação Base Java + Selenium](https://github.com/jhonatavenancio/projeto-teste-qa)
 
 ---
